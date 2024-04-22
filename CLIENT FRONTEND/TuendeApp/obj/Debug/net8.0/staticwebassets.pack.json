@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\obj\\Debug\\net8.0\\compressed\\8v4ze43kay.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TuendeApp.styles.css",
+      "PackagePath": "staticwebassets\\TuendeApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\Accounts.html",
+      "PackagePath": "staticwebassets\\Accounts.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\Riders.html",
+      "PackagePath": "staticwebassets\\Riders.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\Untitled-1.html",
+      "PackagePath": "staticwebassets\\Untitled-1.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\Untitled-2.html",
+      "PackagePath": "staticwebassets\\Untitled-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\Jean Ntumba.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Jean Ntumba.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\Manging director tuende.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Manging director tuende.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\Reheme hod.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Reheme hod.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\TUENDE AFRICA LOGO .2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\TUENDE AFRICA LOGO .2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\TUENDE Brown backfground.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\TUENDE Brown backfground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\TUENDE LOGO-White version....jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\TUENDE LOGO-White version....jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\TUENDE LOGO-icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\TUENDE LOGO-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\Teacher.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Teacher.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\african-man-beach-vacation-lifestyle-portrait-concept.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\african-man-beach-vacation-lifestyle-portrait-concept.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\african-nature-scenery-with-pathway.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\african-nature-scenery-with-pathway.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\bicycle-7876692_1280.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bicycle-7876692_1280.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cargo-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cargo-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cart rider 1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart rider 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\client farmer woman.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\client farmer woman.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\client.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\courier delivery.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\courier delivery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cover page ,website.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cover page ,website.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cycle-4536914_1280.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cycle-4536914_1280.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cyclist 2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cyclist 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cyclist 22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cyclist 22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\cyclist carry goods main.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cyclist carry goods main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\farmer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\farmer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\farmer_start_up_kit_1250x.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\farmer_start_up_kit_1250x.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\features-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\features-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\features-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\features-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\hero-img.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\logistics-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logistics-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\medium-shot-farmers-with-smartphone.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\medium-shot-farmers-with-smartphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\modern-glass-building-bottom-view.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\modern-glass-building-bottom-view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\motorcyclist group.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\motorcyclist group.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\motrbike icon- courier.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\motrbike icon- courier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\mum and son.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\mum and son.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\packaging-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\packaging-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\parent.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\parent.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\pexels-laura-tancredi 1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-laura-tancredi 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\pexels-laura-tancredi 2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-laura-tancredi 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\portrait-handsome-young-black-african-smiling-man.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portrait-handsome-young-black-african-smiling-man.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\quote-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quote-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\retired chief.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\retired chief.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\service-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\shopkeeper.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shopkeeper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\storage-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\storage-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\trees-road.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\trees-road.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\trucking-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\trucking-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\warehousing-service.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\warehousing-service.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\img\\woman on boda ride.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\woman on boda ride.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\forgot-password.html",
+      "PackagePath": "staticwebassets\\forgot-password.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\get- a- quote.html 2",
+      "PackagePath": "staticwebassets\\get- a- quote.html 2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\get-a-quote.html",
+      "PackagePath": "staticwebassets\\get-a-quote.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\pricing.html",
+      "PackagePath": "staticwebassets\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\sample-inner-page.html",
+      "PackagePath": "staticwebassets\\sample-inner-page.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\service-details.html",
+      "PackagePath": "staticwebassets\\service-details.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\VC FOLDER MAIN\\CLIENT FRONTEND\\TuendeApp\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TuendeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TuendeApp.props",
+      "PackagePath": "build\\TuendeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TuendeApp.props",
+      "PackagePath": "buildMultiTargeting\\TuendeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TuendeApp.props",
+      "PackagePath": "buildTransitive\\TuendeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
